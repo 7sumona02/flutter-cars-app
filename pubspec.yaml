@@ -1,5 +1,5 @@
-name: car_brands_app
-description: A Flutter application showcasing different car brands
+name: bike_brands_app
+description: A Flutter application showcasing different motorcycle brands
 
 version: 1.0.0+1
 
@@ -18,12 +18,23 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/t1.jpg
-    - assets/images/t2.jpg
-    - assets/images/t3.jpg
-    - assets/images/m1.jpg
-    - assets/images/m2.jpg
-    - assets/images/m3.jpg
-    - assets/images/h1.jpg
-    - assets/images/h2.jpg
-    - assets/images/h3.jpg
+    - assets/images/suzuki1.jpg
+    - assets/images/suzuki2.jpg
+    - assets/images/scrambler1.jpg
+    - assets/images/scrambler2.jpg
+    - assets/images/supersoco1.jpg
+    - assets/images/supersoco2.jpg
+    - assets/images/segway1.jpg
+    - assets/images/segway2.jpg
+    - assets/images/sondors1.jpg
+    - assets/images/sondors2.jpg
+    - assets/images/stark1.jpg
+    - assets/images/stark2.jpg
+    - assets/images/sur-ron1.jpg
+    - assets/images/sur-ron2.jpg
+    - assets/images/silence1.jpg
+    - assets/images/silence2.jpg
+    - assets/images/super73-1.jpg
+    - assets/images/super73-2.jpg
+    - assets/images/soriano1.jpg
+    - assets/images/soriano2.jpg
